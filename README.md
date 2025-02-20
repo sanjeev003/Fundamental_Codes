@@ -28,7 +28,7 @@ Each notebook provides well-explained coding problems with step-by-step solution
 📦 Fundamental_Codes  
  ┣ 📜 part1.ipynb   
  ┣ 📜 part2.ipynb   
- ┣ 📜 part3.ipynb  and so on......
+ ┣ 📜 part3.ipynb  and so on...... <br>
  ┣ 📜 README.md  # Documentation  
 
 ## 💡 How to Use  
