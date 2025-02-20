@@ -54,7 +54,3 @@ Contributions are welcome! If you have additional problems and solutions to shar
 ## ⭐ Support  
 
 If you find this repository helpful, don't forget to **Star** 🌟 this repository!  
-
----
-
-Now, just **copy and paste** this text into your `README.md` file. 🚀
