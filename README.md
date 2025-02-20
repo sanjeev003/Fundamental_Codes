@@ -26,9 +26,10 @@ bash
 Copy
 Edit
 📦 Fundamental_Codes  
- ┣ 📜 part1.ipynb  # Beginner-friendly problems  
- ┣ 📜 part2.ipynb  # Intermediate problems  
- ┣ 📜 part3.ipynb  # Advanced problems  
+ ┣ 📜 part1.ipynb   
+ ┣ 📜 part2.ipynb    
+ ┣ 📜 part3.ipynb 
+ ┣ 📜 and so on.....
  ┣ 📜 README.md  # Documentation  
 💡 How to Use
 Clone this repository:
