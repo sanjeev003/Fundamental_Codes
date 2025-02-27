@@ -1,0 +1,79 @@
+Determining Even/Odd Numbers
+
+Checking for Prime Numbers
+
+Validating Leap Years
+
+Calculating Armstrong Numbers
+
+Generating the Fibonacci Series
+
+Identifying Palindromes
+
+Crafting Star Patterns
+
+Finding the Factorial of a Number
+
+Summing Digits of a Number
+
+Finding the Greatest Common Divisor (GCD)
+
+Finding the Least Common Multiple (LCM)
+
+Counting Vowels and Consonants in a String
+
+Reversing a String
+
+Finding the Largest and Smallest Numbers in an Array
+
+Sorting an Array
+
+Finding the Sum of Elements in an Array
+
+Checking for Armstrong Numbers in a Range
+
+Generating Multiplication Tables
+
+Finding Prime Numbers in a Range
+
+Checking for Perfect Numbers
+
+Calculating the Sum of Even Numbers in a Range
+
+Calculating the Sum of Odd Numbers in a Range
+
+Finding the Fibonacci Number at a Specific Position
+
+Printing Prime Numbers Less Than a Given Number
+
+Finding the Number of Digits in a Number
+
+Checking if a Number is a Narcissistic Number
+
+Generating a Pattern of Numbers
+
+Finding the Sum of the Digits of the Factorial of a Number
+
+Finding the Largest Palindrome in a String
+
+Finding Missing Numbers in a Sequence
+
+Generating a Pascal’s Triangle
+
+Finding the Median of an Array
+
+Calculating the Power of a Number
+
+Checking for an Anagram
+
+Finding the Sum of Prime Numbers in a Range
+
+Finding the N-th Triangular Number
+
+Checking for Perfect Squares
+
+Finding the Sum of Squares of Digits
+
+Generating a Square Matrix of a Given Size
+
+Calculating the Sum of Digits of a Number Until Single Digit
